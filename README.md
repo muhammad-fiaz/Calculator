@@ -1,7 +1,7 @@
 # Calculator
 A Calculator using Tkinter in Python
 
-                                                              pip3 install tk
+                         pip3 install tk
 
 
 # Output
